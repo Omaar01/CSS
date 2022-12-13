@@ -1,0 +1,12 @@
+.hi{
+    display:inline-block;
+    margin-bottom: 0px;
+    background-color: brown;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    font-size: 30px;
+    width: 20%;
+    border: 10px solid rgb(238, 215, 11);
+    border-style:  double  ;
+    border-radius: 50px;
+}

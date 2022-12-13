@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(100, 196, 132);
+  }
+  .contact{ 
+    font-family: sans-serif;
+    margin: 5%;}
+    .icon{
+        width: 20px;
+    }
